@@ -1,0 +1,10 @@
+button{
+  display:inline-block;
+  position: absolute;
+  bottom:50%;
+  right:1vw;
+  padding:1vh 10vw;
+  background:white;
+  color:black;
+  z-index: 9999999;
+}
